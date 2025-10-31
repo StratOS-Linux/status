@@ -9,7 +9,6 @@ sites:
     url: https://repo.stratos-linux.org/
   - name: Download Mirror
     url: https://downloads.stratos-linux.org/
-
 assignees: 
   - slipstream8125
   - zstg
