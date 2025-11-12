@@ -16,9 +16,10 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: ocean
   cname: status.stratos-linux.org
   # baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/StratOS-Linux/stratos-linux.github.io/refs/heads/main/public/favicon.svg
   name: StratOS Linux
   introTitle: "Are StratOS Linux's Mirrors or Repos Down?"
   introMessage: Status Page of the repos and mirrors which power StratOS Linux.
