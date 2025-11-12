@@ -16,7 +16,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  theme: ocean
+  theme: night
   cname: status.stratos-linux.org
   # baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/StratOS-Linux/stratos-linux.github.io/refs/heads/main/public/favicon.svg
