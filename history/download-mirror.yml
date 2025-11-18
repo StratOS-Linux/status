@@ -1,7 +1,7 @@
 url: https://downloads.stratos-linux.org/
-status: down
-code: 500
-responseTime: 150
-lastUpdated: 2025-11-18T15:31:06.207Z
+status: up
+code: 200
+responseTime: 3379
+lastUpdated: 2025-11-18T15:47:34.474Z
 startTime: 2025-10-31T14:25:36.782Z
 generator: Upptime <https://github.com/upptime/upptime>
