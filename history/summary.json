@@ -49,7 +49,7 @@
     "url": "https://downloads.stratos-linux.org/",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.stratos-linux.org.ico",
     "slug": "download-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "97.01%",
     "uptimeDay": "42.92%",
     "uptimeWeek": "89.88%",
