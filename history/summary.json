@@ -26,12 +26,12 @@
     "slug": "repo",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "96.43%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.28%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.02%",
     "time": 1350,
-    "timeDay": 1161,
+    "timeDay": 1145,
     "timeWeek": 2533,
     "timeMonth": 1626,
     "timeYear": 1350,
@@ -56,14 +56,14 @@
     "url": "https://downloads.stratos-linux.org/",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.stratos-linux.org.ico",
     "slug": "download-mirror",
-    "status": "up",
-    "uptime": "95.62%",
-    "uptimeDay": "37.05%",
+    "status": "down",
+    "uptime": "95.64%",
+    "uptimeDay": "58.19%",
     "uptimeWeek": "71.98%",
     "uptimeMonth": "90.88%",
-    "uptimeYear": "95.62%",
+    "uptimeYear": "95.64%",
     "time": 5885,
-    "timeDay": 4825,
+    "timeDay": 4824,
     "timeWeek": 7065,
     "timeMonth": 6189,
     "timeYear": 5885,
@@ -99,7 +99,7 @@
       "2025-12-17": 19,
       "2025-12-16": 811,
       "2025-12-15": 74,
-      "2025-12-14": 42
+      "2025-12-14": 22
     }
   }
 ]
