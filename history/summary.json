@@ -59,14 +59,14 @@
     "url": "https://downloads.stratos-linux.org/",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.stratos-linux.org.ico",
     "slug": "download-mirror",
-    "status": "up",
-    "uptime": "95.99%",
-    "uptimeDay": "58.51%",
+    "status": "down",
+    "uptime": "96.02%",
+    "uptimeDay": "59.70%",
     "uptimeWeek": "63.15%",
-    "uptimeMonth": "88.16%",
-    "uptimeYear": "95.99%",
+    "uptimeMonth": "88.25%",
+    "uptimeYear": "96.02%",
     "time": 5903,
-    "timeDay": 7005,
+    "timeDay": 7365,
     "timeWeek": 6616,
     "timeMonth": 6212,
     "timeYear": 5903,
@@ -92,7 +92,7 @@
       "2026-01-01": 188,
       "2025-12-31": 106,
       "2025-12-30": 169,
-      "2025-12-29": 92
+      "2025-12-29": 55
     }
   }
 ]
