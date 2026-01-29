@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 216,
-    "timeDay": 70,
-    "timeWeek": 177,
-    "timeMonth": 209,
-    "timeYear": 216,
+    "time": 215,
+    "timeDay": 168,
+    "timeWeek": 162,
+    "timeMonth": 212,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2025-11-18": 91
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "96.57%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.90%",
-    "time": 1342,
-    "timeDay": 1150,
-    "timeWeek": 1313,
-    "timeMonth": 1580,
-    "timeYear": 1342,
+    "time": 1340,
+    "timeDay": 1144,
+    "timeWeek": 1294,
+    "timeMonth": 1575,
+    "timeYear": 1340,
     "dailyMinutesDown": {
       "2026-01-28": 94,
       "2026-01-27": 102,
@@ -58,18 +58,19 @@
     "url": "https://downloads.stratos-linux.org/",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.stratos-linux.org.ico",
     "slug": "download-mirror",
-    "status": "up",
-    "uptime": "96.25%",
-    "uptimeDay": "83.07%",
-    "uptimeWeek": "66.06%",
+    "status": "down",
+    "uptime": "96.28%",
+    "uptimeDay": "83.06%",
+    "uptimeWeek": "66.16%",
     "uptimeMonth": "89.12%",
-    "uptimeYear": "96.25%",
-    "time": 5879,
-    "timeDay": 5588,
-    "timeWeek": 6473,
-    "timeMonth": 6162,
-    "timeYear": 5879,
+    "uptimeYear": "96.28%",
+    "time": 5877,
+    "timeDay": 5793,
+    "timeWeek": 6490,
+    "timeMonth": 6158,
+    "timeYear": 5877,
     "dailyMinutesDown": {
+      "2026-01-29": 0,
       "2026-01-28": 245,
       "2026-01-27": 292,
       "2026-01-26": 443,
@@ -91,8 +92,7 @@
       "2025-12-31": 106,
       "2025-12-30": 169,
       "2025-12-29": 92,
-      "2025-12-28": 31,
-      "2025-12-27": 28
+      "2025-12-28": 31
     }
   }
 ]
