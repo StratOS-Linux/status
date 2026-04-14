@@ -1,7 +1,7 @@
 url: https://repo.stratos-linux.org/
-status: up
-code: 200
-responseTime: 1375
-lastUpdated: 2026-04-13T23:53:36.393Z
+status: down
+code: 502
+responseTime: 913
+lastUpdated: 2026-04-14T14:10:47.941Z
 startTime: 2025-10-31T14:25:35.317Z
 generator: Upptime <https://github.com/upptime/upptime>
