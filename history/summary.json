@@ -25,10 +25,10 @@
     "url": "https://repo.stratos-linux.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.stratos-linux.org.ico",
     "slug": "repo",
-    "status": "up",
+    "status": "down",
     "uptime": "97.97%",
-    "uptimeDay": "92.12%",
-    "uptimeWeek": "98.00%",
+    "uptimeDay": "92.01%",
+    "uptimeWeek": "97.98%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "97.97%",
     "time": 1289,
@@ -37,6 +37,7 @@
     "timeMonth": 1272,
     "timeYear": 1289,
     "dailyMinutesDown": {
+      "2026-04-19": 2,
       "2026-04-18": 113,
       "2026-04-14": 88,
       "2026-04-09": 457,
@@ -76,18 +77,19 @@
     "url": "https://downloads.stratos-linux.org/",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.stratos-linux.org.ico",
     "slug": "download-mirror",
-    "status": "up",
-    "uptime": "91.66%",
-    "uptimeDay": "93.72%",
+    "status": "down",
+    "uptime": "91.67%",
+    "uptimeDay": "93.71%",
     "uptimeWeek": "98.23%",
     "uptimeMonth": "98.55%",
-    "uptimeYear": "91.66%",
+    "uptimeYear": "91.67%",
     "time": 5519,
     "timeDay": 12775,
     "timeWeek": 3323,
     "timeMonth": 2142,
     "timeYear": 5519,
     "dailyMinutesDown": {
+      "2026-04-19": 0,
       "2026-04-18": 91,
       "2026-04-14": 88,
       "2026-04-09": 456,
@@ -124,7 +126,7 @@
       "2026-01-03": 54,
       "2026-01-02": 69,
       "2026-01-01": 188,
-      "2025-12-31": 26
+      "2025-12-31": 1
     }
   }
 ]
