@@ -4,21 +4,21 @@
     "url": "https://stratos-linux.org/",
     "icon": "https://icons.duckduckgo.com/ip3/stratos-linux.org.ico",
     "slug": "strat-os-website",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "93.80%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "79.53%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.90%",
     "time": 188,
-    "timeDay": 0,
+    "timeDay": 215,
     "timeWeek": 276,
     "timeMonth": 196,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2025-11-18": 91,
       "2026-02-04": 57,
-      "2026-09-05": 89
+      "2026-09-05": 295
     }
   },
   {
@@ -26,16 +26,16 @@
     "url": "https://repo.stratos-linux.org/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.stratos-linux.org.ico",
     "slug": "repo",
-    "status": "down",
-    "uptime": "96.92%",
-    "uptimeDay": "93.81%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "96.92%",
+    "status": "up",
+    "uptime": "96.87%",
+    "uptimeDay": "79.54%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "96.87%",
     "time": 1314,
-    "timeDay": 0,
-    "timeWeek": 1252,
-    "timeMonth": 1189,
+    "timeDay": 1217,
+    "timeWeek": 1227,
+    "timeMonth": 1190,
     "timeYear": 1314,
     "dailyMinutesDown": {
       "2025-11-01": 94,
@@ -83,7 +83,7 @@
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 248,
-      "2026-09-05": 89
+      "2026-09-05": 295
     }
   },
   {
@@ -91,17 +91,17 @@
     "url": "https://downloads.stratos-linux.org/",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.stratos-linux.org.ico",
     "slug": "download-mirror",
-    "status": "down",
-    "uptime": "93.18%",
-    "uptimeDay": "93.82%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "93.18%",
-    "time": 4796,
-    "timeDay": 0,
-    "timeWeek": 1295,
-    "timeMonth": 1260,
-    "timeYear": 4796,
+    "status": "up",
+    "uptime": "93.13%",
+    "uptimeDay": "79.55%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "93.13%",
+    "time": 4790,
+    "timeDay": 1148,
+    "timeWeek": 1259,
+    "timeMonth": 1257,
+    "timeYear": 4790,
     "dailyMinutesDown": {
       "2026-01-08": 25,
       "2026-01-10": 70,
@@ -148,7 +148,7 @@
       "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 759,
-      "2026-09-05": 89
+      "2026-09-05": 294
     }
   }
 ]
