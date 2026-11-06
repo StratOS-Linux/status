@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 219,
-    "timeDay": 319,
-    "timeWeek": 217,
-    "timeMonth": 569,
+    "timeDay": 278,
+    "timeWeek": 205,
+    "timeMonth": 571,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2025-11-18": 91,
@@ -27,15 +27,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.stratos-linux.org.ico",
     "slug": "repo",
     "status": "down",
-    "uptime": "97.39%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.37%",
-    "time": 1310,
-    "timeDay": 1261,
-    "timeWeek": 1219,
-    "timeMonth": 1390,
+    "uptime": "97.18%",
+    "uptimeDay": "20.99%",
+    "uptimeWeek": "88.71%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "97.16%",
+    "time": 1309,
+    "timeDay": 1142,
+    "timeWeek": 1173,
+    "timeMonth": 1383,
     "timeYear": 1317,
     "dailyMinutesDown": {
       "2025-11-08": 18,
@@ -83,7 +83,8 @@
       "2026-06-28": 1440,
       "2026-06-27": 248,
       "2026-09-05": 295,
-      "2026-11-05": 1
+      "2026-11-06": 271,
+      "2026-11-05": 867
     }
   },
   {
@@ -92,16 +93,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/downloads.stratos-linux.org.ico",
     "slug": "download-mirror",
     "status": "down",
-    "uptime": "94.24%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "94.16%",
-    "time": 4492,
-    "timeDay": 2278,
-    "timeWeek": 1614,
-    "timeMonth": 1799,
-    "timeYear": 4479,
+    "uptime": "94.04%",
+    "uptimeDay": "21.01%",
+    "uptimeWeek": "88.72%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "93.94%",
+    "time": 4486,
+    "timeDay": 1807,
+    "timeWeek": 1554,
+    "timeMonth": 1788,
+    "timeYear": 4473,
     "dailyMinutesDown": {
       "2026-01-10": 42,
       "2026-01-11": 21,
@@ -149,7 +150,8 @@
       "2026-06-26": 759,
       "2026-09-05": 294,
       "2026-09-23": 226,
-      "2026-11-05": 0
+      "2026-11-06": 271,
+      "2026-11-05": 867
     }
   }
 ]
